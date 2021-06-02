@@ -1,2 +1,2 @@
 # Kaggle-Titanic-ML
-Public score: 0.78229
+Public score: 0.78947
